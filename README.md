@@ -24,7 +24,7 @@ Before running this script, ensure:
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/obahchimaobi/php-installer
+   git clone https://github.com/obahchimaobi/PHP-installer
    ```
 2. Open a terminal with **administrator privileges**.
 3. Navigate to the repository directory:
