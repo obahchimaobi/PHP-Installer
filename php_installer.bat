@@ -12,7 +12,7 @@ if exist "%PHP_DIR%\php.exe" (
 )
 
 :: Download PHP zip package (adjust link based on your PHP version and architecture)
-set "PHP_ZIP_URL=https://windows.php.net/downloads/releases/php-8.4.2-nts-Win32-vs17-x64.zip"
+set "PHP_ZIP_URL=https://windows.php.net/downloads/releases/php-%PHP_VERSION%-nts-Win32-vs17-x64.zip"
 set "PHP_ZIP_FILE=%TEMP%\php.zip"
 
 echo Downloading PHP...
